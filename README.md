@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/hurayraiit" target="blank"><img src="https://img.shields.io/twitter/follow/hurayraiit?logo=twitter&style=for-the-badge" alt="hurayraiit" /></a> </p>
 
-- 🔭 I’m currently working on **Wordpress Testing**
+- 🔭 I’m currently working as a **Junior Software Test Engineer** at <a href="https://wpdeveloper.net/">**WPDeveloper**</a>
 
-- 🌱 I’m currently learning **cyber security**
+- 🌱 I’m currently learning **Software Test Automation**
 
 - 👯 I’m looking to collaborate on **Capture The Flag (CTF) competitions**
 
-- 🤝 I’m looking for help with **Competitive Programming**
+- 🤝 I’m looking for help with **Competitive Programming** and **Cyber Security**
 
 - 📝 I regularly write articles on [hurayraiit.github.io](https://hurayraiit.github.io/)
 
