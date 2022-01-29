@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Competitive Programming** and **Cyber Security**
 
-- 📝 I regularly write articles on [hurayraiit.github.io](https://hurayraiit.github.io/)
+- 📝 I regularly write articles on [hurayraiit.xyz](https://hurayraiit.xyz/)
 
 - 📫 How to reach me **hurayraiit@gmail.com**
 
