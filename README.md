@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/hurayraiit" target="blank"><img src="https://img.shields.io/twitter/follow/hurayraiit?logo=twitter&style=for-the-badge" alt="hurayraiit" /></a> </p>
 
-- 🔭 I’m currently working as a **Junior Software Test Engineer** at <a href="https://wpdeveloper.com/">**WPDeveloper**</a>
+- 🔭 I’m currently working as a **Application Security Engineer** at <a href="https://wpdeveloper.com/">**WPDeveloper**</a>
 
-- 🌱 I’m currently learning **Software Test Automation**
+- 🌱 I’m currently learning **Web security and Laravel Web Development**
 
 - 👯 I’m looking to collaborate on **Capture The Flag (CTF)** competitions
 
