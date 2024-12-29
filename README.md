@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Abu Hurayra</h1>
-<h3 align="center">A passionate student interested in software engineering, IT and information security.</h3>
+<h3 align="center">I am a Application Security Engineer with a keep interest in SQA and automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hurayraiit&label=Profile%20views&color=0e75b6&style=flat" alt="hurayraiit" /> </p>
 
@@ -26,15 +26,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/hurayraiit" target="blank"><img src="https://img.shields.io/twitter/follow/hurayraiit?logo=twitter&style=for-the-badge" alt="hurayraiit" /></a> </p>
 
-- 🔭 I’m currently working as a **Application Security Engineer** at <a href="https://wpdeveloper.com/">**WPDeveloper**</a>
+- 🔭 I’m currently working as a **Application Security Engineer** at <a href="https://startise.com/">**Startise**</a>
 
-- 🌱 I’m currently learning **Web security and Laravel Web Development**
+- 🌱 I’m currently learning **Web application security and Playwright test automation**
 
-- 👯 I’m looking to collaborate on **Capture The Flag (CTF)** competitions
-
-- 🤝 I’m looking for help with **Competitive Programming** and **Cyber Security**
-
-- 📝 I regularly write articles on [My Blog](https://hurayraiit.github.io/)
+- 📝 I regularly write articles on [My Blog](https://hurayraiit.com/)
 
 - 📫 How to reach me **hurayraiit@gmail.com**
 
