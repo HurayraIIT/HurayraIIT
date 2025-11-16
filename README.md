@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Abu Hurayra</h1>
-<h3 align="center">I am a Application Security Engineer with a keep interest in SQA and automation.</h3>
+<h3 align="center">I am a Lead Application Security Engineer with a keen interest in SQA and automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hurayraiit&label=Profile%20views&color=0e75b6&style=flat" alt="hurayraiit" /> </p>
 
